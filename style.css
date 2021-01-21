@@ -67,7 +67,7 @@ html{
     border-radius: 9px;
 }
 .background{
-    background: rgba(0,0,0,0.7)url('../image/book-magic.jpg');
+    background: rgba(0,0,0,0.7)url('book-magic.jpg');
     background-size: cover;
     background-blend-mode: darken;
 }
