@@ -67,7 +67,7 @@ html{
     border-radius: 9px;
 }
 .background{
-    background: rgba(0,0,0,0.7)url('https://i.pinimg.com/736x/7c/b1/86/7cb18679659f791b1191bea97b74dfc0.jpg');
+    background: rgba(0,0,0,0.7)url("https://i.pinimg.com/736x/7c/b1/86/7cb18679659f791b1191bea97b74dfc0.jpg");
     background-size: cover;
     background-blend-mode: darken;
 }
