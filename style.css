@@ -16,9 +16,7 @@ html{
 .logo img{
     height:165px;
     width: auto;
-/*     border: 2px solid white; */
-/*     border-radius: 25px; */
-    filter: invert(0);
+    filter: invert(1);
     margin: 2px;
 }
 
